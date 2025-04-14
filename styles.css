@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0077ff;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header .logo {
+    text-align: center;
+}
+
+header .logo img {
+    max-width: 200px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.banner {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+.contenido {
+    padding: 38px;
+}
+
+.contenido article {
+    margin-bottom: 60px;
+    text-align: center;
+    padding: 0px;
+}
+
+.contenido article img {
+    max-width: 27%;
+    height: auto;
+}
+
+.imagen-centrada {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #0077ff;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.redes-sociales img {
+    width: 30px;
+    margin: 0 10px;
+}
